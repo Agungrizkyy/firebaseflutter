@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379845304977",
+    "project_id": "rizky-318e9",
+    "storage_bucket": "rizky-318e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379845304977:android:56c04e36352498ce3f5530",
+        "android_client_info": {
+          "package_name": "com.agung.flutter_agung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379845304977-01icd7jsgjcsc0p7rbd2er70h4cobtfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEa1ckESlRV3fHxNyKq0ZkHo0PlZe8lEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379845304977-01icd7jsgjcsc0p7rbd2er70h4cobtfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
